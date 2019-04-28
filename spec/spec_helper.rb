@@ -1,5 +1,6 @@
 require 'support/database_cleaner'
 require 'support/factory_bot'
+require 'rails_helper'
 RSpec.configure do |config|
 
   config.expect_with :rspec do |expectations|
