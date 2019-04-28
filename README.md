@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a scaffolded app designed to get you off the ground and running quickly on a new rails project using TDD
 
-Things you may want to cover:
+The installed and configured testing frameworks are:
+- Rspec
+- FactoryBot
+- Capybara
+- Faker
+- Database Cleaner
+- Selenium webdriver
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+There is also a TestModel class setup with feature and model tests written to make sure that all of the libraries are working.
